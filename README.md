@@ -10,9 +10,10 @@
 
 ![CleanShot 2024-06-05 at 07 38 17@2x](https://github.com/aidgent/aidgent/assets/19483938/7dcfb4da-c54e-439a-b30a-35e40619a250)
 
-
 P.S. - You can report issues here: https://github.com/aidgent/aidgent/issues
 
 P.P.S - you can also use Aidgent on Poe:
 [https://poe.com/aidgent](https://poe.com/aidgent)
+
+hello, world
 
