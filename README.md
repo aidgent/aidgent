@@ -13,6 +13,11 @@
 
 P.S. - You can report issues here: https://github.com/aidgent/aidgent/issues
 
+who is the boss?
+do you roger
+don't leave me out
+rawwerks is the boss
+
 P.P.S - you can also use Aidgent on Poe:
 [https://poe.com/aidgent](https://poe.com/aidgent)
 
