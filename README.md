@@ -7,6 +7,8 @@
 3. mention @aidgent in a public GH issue.
 4. margaritas
 
+who is the boss?
+do you roger
 
 ![CleanShot 2024-06-05 at 07 38 17@2x](https://github.com/aidgent/aidgent/assets/19483938/7dcfb4da-c54e-439a-b30a-35e40619a250)
 
