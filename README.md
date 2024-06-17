@@ -22,3 +22,5 @@ This is a test public repo image.
 
 This is the text from the image.
 
+This is the text from the image.
+
