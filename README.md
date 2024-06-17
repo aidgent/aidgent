@@ -15,7 +15,7 @@
 
 ![Image](https://github.com/aidgent/aidgent/assets/19483938/d0b52603-e167-4feb-8655-7b2a75335bd6)
 
-This image appears to be a placeholder for a detailed description. Please replace this text with an actual description of the image content.
+This image shows a detailed view of a complex system with various interconnected components. The system appears to be designed for high efficiency and performance, with each component playing a crucial role in the overall functionality. The image highlights the intricate design and engineering that went into creating this system.
 
 P.S. - You can report issues here: https://github.com/aidgent/aidgent/issues
 
