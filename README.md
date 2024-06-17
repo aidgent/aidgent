@@ -20,3 +20,5 @@ P.P.S - you can also use Aidgent on Poe:
 
 This is a test public repo image.
 
+This is the text from the image.
+
