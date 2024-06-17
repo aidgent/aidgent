@@ -16,3 +16,5 @@ P.S. - You can report issues here: https://github.com/aidgent/aidgent/issues
 P.P.S - you can also use Aidgent on Poe:
 [https://poe.com/aidgent](https://poe.com/aidgent)
 
+![what would you say you do here?](https://i.imgflip.com/8sh73j.jpg)
+
