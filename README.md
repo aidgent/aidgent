@@ -11,6 +11,12 @@
 ![CleanShot 2024-06-05 at 07 38 17@2x](https://github.com/aidgent/aidgent/assets/19483938/7dcfb4da-c54e-439a-b30a-35e40619a250)
 
 
+## Image Description
+
+![Image](https://github.com/aidgent/aidgent/assets/19483938/d0b52603-e167-4feb-8655-7b2a75335bd6)
+
+This image appears to be a placeholder for a detailed description. Please replace this text with an actual description of the image content.
+
 P.S. - You can report issues here: https://github.com/aidgent/aidgent/issues
 
 P.P.S - you can also use Aidgent on Poe:
